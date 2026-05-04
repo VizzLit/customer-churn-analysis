@@ -35,3 +35,20 @@ This project analyzes customer churn in a telecom dataset and builds a machine l
 ---
 
 ## 📁 Project Structure
+customer-churn-analysis/
+│
+├── churn.ipynb
+├── Telco_Customer_Churn_Dataset.csv
+├── SKS Data Science.pdf
+
+---
+
+## 💡 Business Recommendations
+- Offer discounts to new customers  
+- Promote long-term contracts  
+- Target high-risk customers with retention strategies  
+
+---
+
+## 📌 Conclusion
+This project demonstrates how data analysis and machine learning can help businesses reduce customer churn and improve retention strategies.
