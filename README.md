@@ -39,7 +39,6 @@ customer-churn-analysis/
 │
 ├── churn.ipynb
 ├── Telco_Customer_Churn_Dataset.csv
-├── SKS Data Science.pdf
 
 ---
 
