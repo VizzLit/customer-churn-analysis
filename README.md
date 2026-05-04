@@ -30,7 +30,7 @@ This project analyzes customer churn in a telecom dataset and builds a machine l
 
 ## 🤖 Model
 - Logistic Regression  
-- Accuracy: *(add your value here)*  
+- Accuracy: *(81.6%)*  
 
 ---
 
